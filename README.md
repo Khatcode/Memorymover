@@ -1,2 +1,2 @@
 # Memorymover
-Simple C program to move calc shellcode throughout allocated memory.
+Simple C++ program to move calc shellcode throughout allocated memory.
